@@ -8,5 +8,3 @@ Computer Science student at **AGH University of Krakow** and **full-stack develo
 - 🌍 Ukrainian · Polish · English · German
 
 **Tech I use:** Go · Python · PyTorch · Hugging Face · TypeScript · SvelteKit · PostgreSQL · Docker · GitHub Actions · Linux · C++
-
-📫 [LinkedIn](https://linkedin.com/in/dmytroharasiuk)
