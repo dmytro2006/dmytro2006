@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @dmytro2006
-- 👀 I’m interested in low level programming.
 - 🌱 I’m currently learning Go and WebDev.
 - 🎓 I’m studying Computer science and intelligent systems.
 - 💞️ I’m looking to collaborate on making an emulator or an OS(maybe).
